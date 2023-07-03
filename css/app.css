@@ -17,6 +17,7 @@ body::-webkit-scrollbar {
 .font-estetik {
     font-family: 'Sacramento', cursive !important;
     color: #ffffff !important;
+    font-weight: bold;
 }
 
 .cropper {
